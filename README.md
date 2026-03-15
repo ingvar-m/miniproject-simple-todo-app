@@ -3,3 +3,7 @@ Source code for the project from my YouTube channel: https://www.youtube.com/@no
 
 ## Getting Started
 If you see errors after cloning, run this command to generate Hive adapters: `dart run build_runner build`
+
+## Preview
+
+![App Demo](https://github.com/ingvar-m/miniproject-simple-todo-app/blob/main/simple_todo_app.gif)
